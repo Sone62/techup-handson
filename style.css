@@ -5,9 +5,13 @@
     text-align: center;
     border: 10px black solid
     margin-border: 100px
-    padding-top: 20px
+    padding-top: 50px
     padding-bottom: 20px
 }
 h3 {color: grey}
 h4 {color: green} 
+title {
+background-color: grey;
+}
+
 */
